@@ -1,0 +1,5 @@
+This is a very small game in the genre Tower Defense. 
+I decided not to rewrite using the module os, so if you want to 
+run game please execute this command on your terminal
+
+cd Your directory where the root folder with the game is located
